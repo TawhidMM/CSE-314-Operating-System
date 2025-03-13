@@ -10,17 +10,20 @@ TARGET = ipc
 # Source files
 SRC = ipc.cpp
 
-# Build target
+# Mark targets as phony to avoid issues
+.PHONY: all clean run
+
+# Default target (runs when you type 'make')
 all: $(TARGET)
 
 # Compile the program
 $(TARGET): $(SRC)
-	$(CXX) $(CXXFLAGS) -o $(TARGET) $(SRC)
+	$(CXX) -o $(TARGET) $(SRC) $(CXXFLAGS)
 
 # Run the program
 run: $(TARGET)
 	./$(TARGET)
 
-# Clean the compiled files
+# Clean compiled files
 clean:
 	rm -f $(TARGET)
