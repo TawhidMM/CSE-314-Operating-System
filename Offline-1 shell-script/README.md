@@ -25,9 +25,6 @@ Run in Linux/WSL.
 
 - [Assignment Spec](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-1%20shell-script/Resources/Bash_Scripting_Assignment_Spec.pdf)
 
-- [Sample Input File](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-1%20shell-script/Resources/Bash_Scripting_Assignment_Spec.pdf)
-
-
 - [Shell Script samples](https://github.com/TawhidMM/OS-CSE-314/tree/main/Offline-1%20shell-script/Resources/script%20samples)
 
 - [Shell Commands Slide](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-1%20shell-script/Resources/Shell_command_slide.pdf)
