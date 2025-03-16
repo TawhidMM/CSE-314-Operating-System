@@ -9,17 +9,17 @@ This assignment implements an autograder to evaluate student assignments submitt
 ```bash
   ./2005036.sh <input file path> 
 ```
-Run in Linux/WSL
+Run in Linux/WSL.
 
 > [!CAUTION]
 > `Working Directory` in `input file` must be relative to the `current directory`
 
 ## Resources
 
-- [Assignment Spec](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-1%20shell-script/Resources/Bash%20Scripting%20Assignment_%20Autograder%20Design.pdf)
+- [Assignment Spec](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-1%20shell-script/Resources/Bash_Scripting_Assignment_Spec.pdf)
 
 - [Shell Script samples](https://github.com/TawhidMM/OS-CSE-314/tree/main/Offline-1%20shell-script/Resources/script%20samples)
 
-- [Shell Commands Slide](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-1%20shell-script/Resources/CSE314January2024Session1.pdf)
+- [Shell Commands Slide](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-1%20shell-script/Resources/Shell_command_slide.pdf)
 
-- [Shell Scripting Slide](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-1%20shell-script/Resources/Shell_Scripts.pdf)
+- [Shell Scripting Slide](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-1%20shell-script/Resources/Shell_Scripts_Slide.pdf)
