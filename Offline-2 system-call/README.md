@@ -45,6 +45,6 @@ Three tasks are implemented:
 
 ## Resources
 
-- [adding a user program]()
-- [adding a system call]()
+- [adding a user program](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-2%20system-call/xv6_resources/xv6_%20Adding%20a%20user%20program.pdf)
+- [adding a system call](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-2%20system-call/xv6_resources/xv6_%20Adding%20a%20system%20call.pdf)
 - [xv6 installation]()

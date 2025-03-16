@@ -40,7 +40,7 @@ Use the commands from inside `xv6-riscv` directory
  ```
 
 ## Resources
-- [xv6 book]()
+- [xv6 book](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-2%20system-call/xv6_resources/book-riscv-rev1.pdf)
 
 - [Explanation of source code](https://www.youtube.com/watch?v=fWUJKH0RNFE&list=PLbtzT1TYeoMhTPzyTZboW_j7TPAnjv9XB)
  
