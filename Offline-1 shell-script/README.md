@@ -7,6 +7,9 @@ An input file will be provided that will contain path to the `directory where th
 
 ## Input File
 
+The Input file contains the following lines of
+information (The bullet number indicates the line number)
+
 ![image alt](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-1%20shell-script/Resources/input.png)
 
 ## How To Run
