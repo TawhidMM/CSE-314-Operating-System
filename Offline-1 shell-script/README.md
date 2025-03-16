@@ -1,9 +1,13 @@
 
 # Shell Script
 
-This assignment implements an autograder to evaluate student assignments submitted as zip files. The autograder will process the submissions, run the code, compare the output, and generate a report and folders.
+This assignment implements an autograder to evaluate student assignments submitted as ZIP files. The autograder processes submissions, runs the code, compares the output, and generates a report along with organized folders.
 
-An input file will be provided that will contain path to the `directory where the submissions are stored`, path to the `file containing the expected output` and other necessaty informations.
+There will be an input file will be provided, containing:
+
+- The path to the `directory where the submissions are stored`
+- The path to the `file containing the expected output`
+- Other necessary information
 
 ## Input File
 
