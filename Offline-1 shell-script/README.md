@@ -6,11 +6,10 @@ This assignment implements an autograder to evaluate student assignments submitt
  and folders.
 
 ## How To Run
-Run in Linux/WSL
-
 ```bash
   ./2005036.sh <input file path> 
 ```
+Run in Linux/WSL
 
 > [!CAUTION]
 > `Working Directory` in `input file` must be relative to the `current directory`
