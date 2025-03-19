@@ -4,6 +4,9 @@
 > ![NOTE]
 > Skip If prerequisite tool is already downloaded in the machine. 
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 - Clone the codebase
     ```bash
     git clone https://github.com/shuaibw/xv6-riscv --depth=1
