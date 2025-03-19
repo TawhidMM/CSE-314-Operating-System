@@ -32,7 +32,7 @@ Three tasks are implemented:
 
 ## How to Run ??
 
-1. [clone xv6 codebase]().
+1. [clone xv6 codebase](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-2%20system-call/resources/xv6_installation.md).
 2. download the `2005036.patch` file and put outside `xv6-riscv`.
 3. apply the patch
     ```bash
