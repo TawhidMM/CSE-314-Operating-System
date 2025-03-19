@@ -2,7 +2,7 @@
 - Download the [prerequisite tools](https://pdos.csail.mit.edu/6.828/2022/tools.html)
 
 > [!NOTE]
-> Skip If prerequisite tool is already downloaded in the machine.
+> Skip If `prerequisite tools` is already downloaded in the machine.
 
 - Clone the codebase
     ```bash
