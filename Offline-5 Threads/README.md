@@ -1,6 +1,6 @@
 # xv6 - Threading & Synchronization
 
-[Assignment Spec]()
+[Assignment Spec](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-5%20Threads/Offline_5_Threading.md)
 
 This assignment implements-
 

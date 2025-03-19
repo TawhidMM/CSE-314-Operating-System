@@ -1,5 +1,5 @@
 # xv6 Scheduling
-[Assignment Spec]()
+[Assignment Spec](https://github.com/TawhidMM/OS-CSE-314/blob/main/Offline-3%20Scheduling/CSE314-scheduling-Jan2024.pdf)
 
 
 This assignment implements an [MLFQ (Multilevel Feedback Queue)](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) scheduling algorithm with the aging mechanism.
