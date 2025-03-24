@@ -17,7 +17,7 @@ Extends xv6 by implementing new system calls:
 ### [Assignment 3: xv6 - Scheduling](https://github.com/TawhidMM/OS-CSE-314/tree/main/Offline-3%20Scheduling)  
 Implements an **MLFQ (Multilevel Feedback Queue) scheduling** algorithm with an aging mechanism. It features two queues—one using **lottery scheduling** and the other following a **Round-Robin** approach.  
 
-### [Assignment 4: Museum Visitors Synchronization](https://github.com/TawhidMM/OS-CSE-314/tree/main/Offline-4%20IPC)  
+### [Assignment 4: Inter Process Communication](https://github.com/TawhidMM/OS-CSE-314/tree/main/Offline-4%20IPC)  
 Simulates visitor movements in a **museum** using **synchronization and locking mechanisms**.  
 - **Task 1**: Implements visitor movements with proper synchronization and prints movements with timing info.  
 - **Task 2**: Ensures all visitors enter **Gallery 2**, enforcing movement constraints.  
